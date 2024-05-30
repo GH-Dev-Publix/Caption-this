@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Comitting from my local to remote repo
 
 ![skatetocat](https://octodex.github.com/images/skatetocat.png)
 {: .center}
