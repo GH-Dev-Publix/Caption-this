@@ -1,9 +1,11 @@
 ---
 layout: slide
 title: "Welcome to our slide deck!"
+
+Added for caption test
 ---
 
-Comitting from my local to remote repo
+Caption here
 
 ![skatetocat](https://octodex.github.com/images/skatetocat.png)
 {: .center}
